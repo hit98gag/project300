@@ -1,0 +1,727 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Mainpage{
+    box-sizing: border-box;
+    /* border: 5px solid green; */
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar{
+    /* border: 2px solid blue; */
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #0D0D0D;
+}
+.img1{
+    /* border: 2px solid red; */
+    box-sizing: border-box;
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+   
+}
+.img11{
+    height: 2.5rem;
+    
+}
+
+.navLinks{
+    /* border: 2px solid green; */
+    width: 50%;
+}
+.navElements{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1rem;
+    color: white;
+    list-style-type: none;
+
+}
+button{
+    background-color: #F4AB1D;
+    height: 40px;
+    width: 150px;
+    border-radius: 3rem;
+    border: none;
+}
+.MainpageContent{
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    box-sizing: border-box;
+    height: 90%; 
+    background-color: #0D0D0D;
+    
+}
+
+.pageContent{
+    /* border: 2px solid blue; */
+    background-color: rgba(0, 0, 0, 0.5);
+    height:100%;
+    background-image: url(./images/Rectangle\ 4566.png);
+    /* filter: grayscale(100%); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    /* filter: grayscale(100%); */
+    
+}
+.pageContentGG{
+    /* border: 2px solid pink; */
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Empowering{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.groupImg{
+    /* border: 2px solid green; */
+    display: flex;
+   justify-content: center; 
+   margin-bottom: 1rem;
+   
+}
+.groupImg1{
+    width: 50%;
+}
+
+.SERVICES{
+    font-size: 2rem;
+    /* border: 2px solid blue; */
+    font-family: 'Montserrat', sans-serif;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+
+}
+
+.sd{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 2px solid red; */
+    width: 80%;
+}
+
+.blur{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.blur1{
+    height: 10px;
+    width: 1.5rem;
+}
+
+.WEBDEVELOPMENT{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    /* border: 5px solid green; */
+    background-color: #131417;
+    padding-right: 1.5rem;
+
+}
+.ourBestServices{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100%;
+}
+
+.bestTitle{
+    /* border: 2px solid blue; */
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.upWard{
+    /* border: 2px solid green; */
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 20%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.img22{
+    height: 10px;
+    width: 300.4px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.downWard{
+    /* border: 2px solid blue; */
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1rem;
+    font-size:small;
+  
+    
+}
+
+.picPlusCont{
+    /* border: 2px solid blue; */
+    box-sizing: border-box;
+   height: 85%;
+   width: 100%;
+   background-color: #131417;
+   display: flex;
+   align-items: center;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.left{
+    /* border: 2px solid red; */
+    height:590.54px ;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    filter: grayscale(100%);
+}
+.img23{
+  height: 50%;
+}
+
+.Right{
+    /* border: 2px solid blue; */
+    height: 50%;
+    width: 65%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.Rectangle{
+    width: 15%;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+
+}
+
+.para{
+font-family: 'Montserrat', sans-serif;   
+
+line-height: 20px;
+}
+
+.button2{
+    background-color: #F4AB1D;
+    height: 40px;
+    width: 150px;
+    border-radius: 3rem;
+    border: none;
+    margin-top: 3rem;
+}
+
+.dots{
+    margin-top: 14rem;
+    margin-left: 5rem;
+}
+
+/* .Vision{
+    border:2px solid red;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+   
+    
+    
+} */
+
+.Vision{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 90vh;
+    /* border: 5px solid green; */
+    background-color: #020101e2;
+   
+
+}
+
+.visionMain{
+    /* border: 2px solid blue; */
+    width: 100%;
+    height: 100%;
+}
+
+.upperDiv{
+    /* border: 2px solid green; */
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+}
+.upperDiv1{
+    /* border: 2px solid red; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.trans1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.LowerDiv{
+    /* border: 2px solid green; */
+    box-sizing: border-box;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.lowerLeft{
+    /* border: 2px solid blue; */
+    height: 60%;
+    width: 60%;
+    margin-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.expertQ{
+
+    /* border: 2px solid red; */
+    height: 120px;
+    width: 587.69px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 2rem;
+
+}
+
+.imgOne{
+    /* border: 2px solid blue; */
+    
+}
+
+.imageOne , .imageTwo , .imageThree{
+
+    height: 100px;
+    width:120px ;
+}
+
+.textOne{
+    /* border: 2px solid green; */
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 1.5rem;
+
+  
+}
+.heading1{
+    /* border: 2px solid blue; */
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.para1{
+    /* border: 2px solid red; */
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+
+}
+
+
+
+
+.Reliability{
+    /* border: 2px solid green; */
+    height: 120px;
+    width: 587.69px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 17rem;
+}
+.imgTwo{
+    /* border: 2px solid blue; */
+}
+.textTwo{
+    /* border: 2px solid green; */
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 1.5rem;
+
+  
+}
+.heading2{
+    /* border: 2px solid blue; */
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.para2{
+    /* border: 2px solid red; */
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+
+}
+
+.Cexperience{
+    /* border: 2px solid blue; */
+    height: 120px;
+    width: 587.69px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 2rem;
+}
+
+.imgThree{
+    /* border: 2px solid green; */
+}
+.textThree{
+    /* border: 2px solid red; */
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 1.5rem;
+  
+}
+.heading3{
+    /* border: 2px solid blue; */
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.para3{
+    /* border: 2px solid red; */
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.lowerRight {
+
+    /* border: 2px solid red; */
+    width: 35%;
+    height: 60%;
+    margin-top: 2.5rem;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.lowerRightimg{
+    width: 35rem;
+    height: 30rem;
+}
+
+.footer{
+    /* border: 2px solid red; */
+    width: 100vw;
+    height: 70.609756097560975vh;
+    box-sizing: border-box;
+}
+.upperPicdiv{
+    /* border: 2px solid green; */
+    height: 30%;
+}
+.upperPicdiv1{
+    width: 100%;
+    height: 100%;
+}
+
+.lowerDivEnd{
+    /* border: 5px solid blue; */
+    width: 100%;
+    height: 80%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #131417;
+    
+
+}
+
+.firstCl{
+    /* border: 2px solid green; */
+    height: 90%;
+    width: 25%;
+    margin-top: 5px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+   
+}
+
+.firstClimg{
+ width: 60%;
+ height: 64px;
+ margin-top: .5rem;
+ margin-left: 3rem;
+}
+
+.secoundcl{
+    /* border: 2px solid red; */
+    height: 90%;
+    width: 20%;
+        margin-top: 5px;
+        display: flex;
+        flex-direction: column;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 1rem;
+        
+
+}
+.serviceArrow{
+    /* border: 2px solid red; */
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.thirdcl{
+    /* border: 2px solid blue; */
+    height: 90%;
+    width: 15%;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+.upperThree{
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 50%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+
+    
+
+}
+
+.divOneThree, .divTwoThree
+,.divThreeThree
+,.divFourThree
+
+{
+    display: flex;
+    flex-direction: row;
+   
+    font-size: small;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+
+.lowerThree  {
+    /* border: 2px solid red; */
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+
+
+.fourthcl{
+/* border: 2px solid green; */
+    height: 90%;
+    width: 15%;
+        margin-top: 5px;
+
+}
+
+.fifthcl{
+    /* border: 2px solid red; */
+    height: 90%;
+    width: 15%;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+
+}
+
+.divOne, .divTwo,
+.divThree
+,.divFour
+,.divFive
+,.divSix
+,.divSeven
+,.divEight
+,.divNine{
+
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+
+.fourthcl{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+
+}
+.divfour{
+    display: flex;
+    /* font-size: small; */
+
+}
+
+.office{
+/* border: 2px solid green; */
+height: 25%;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+font-family: 'Montserrat', sans-serif;
+margin-top: .8rem;
+
+
+}
+
+.office1{
+    /* border: 2px solid palevioletred; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: small;
+
+}
+.officePic{
+    width: 23px;
+    height: 20px;
+    
+}
+.sales{
+/* border: 2px solid blue; */
+height: 40%;
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+font-family: 'Montserrat', sans-serif;
+
+}
+.numOne{
+    display: flex;
+}
+
+
+.recruitment{
+/* border: 2px solid red; */
+height: 20%;
+color: white;
+font-family: 'Montserrat', sans-serif;
+
+}
+.recBlk{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+
+
+.lowerMostDiv{
+    height: 10%;
+    background-color: #222121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+/* ... Your existing CSS code ... */
+
+/* Responsive CSS */
+@media screen and (max-width: 768px) {
+    /* Display 2 items per row */
+    .groupImg1 {
+        width: 50%;
+    }
+
+    /* Display 3 items per row */
+    .divOneThree, .divTwoThree, .divThreeThree {
+        width: 33.33%;
+    }
+
+    /* Display 4 items per row */
+    .divFourThree {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    /* Display 1 item per row */
+    .groupImg1 {
+        width: 100%;
+    }
+
+    /* Hide non-essential elements */
+    .expertQ, .Reliability, .Cexperience, .lowerRight {
+        display: none;
+    }
+
+    /* Adjust text size or other styles for better mobile readability */
+    /* For example: */
+    .heading1, .heading2, .heading3 {
+        font-size: 1rem;
+    }
+    .para1, .para2, .para3 {
+        font-size: 0.8rem;
+    }
+}
+
+
+
+
